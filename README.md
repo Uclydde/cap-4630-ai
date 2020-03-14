@@ -4,3 +4,5 @@ Required repo for submitting homework assignments for "Artificial Intelligence" 
 HW1: multiply a list of matrices using numpy
 
 HW2: plot 3 bivariate functions with critical points, extend gradient descent to R2, find the averages of the MNIST dataset
+
+HW3: implement logistic regression
